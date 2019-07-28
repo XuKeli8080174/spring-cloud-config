@@ -34,4 +34,4 @@ eureka:
 # 自定义配置：测试配置管理实时生效的字符串
 config:
   auto-update:
-    value: "updated"
+    value: "111111"
